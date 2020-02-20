@@ -39,7 +39,7 @@
 		"webp"
 	],
 	"dependencies": {
-		"cwebp-bin": "^5.0.0",
+		"cwebp-bin-mirror": "^5.1.0",
 		"exec-buffer": "^3.0.0",
 		"is-cwebp-readable": "^3.0.0"
 	},
