@@ -1,11 +1,11 @@
 {
-	"name": "imagemin-webp-mirror",
+	"name": "imagemin-webp-copy",
 	"version": "5.1.0",
 	"description": "WebP imagemin plugin",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Linnanli/cwebp-bin-mirror.git"
+		"url": "git+https://github.com/Linnanli/cwebp-bin-copy.git"
 	},
 	"author": {
 		"name": "Kevin Mårtensson",
@@ -42,7 +42,7 @@
 		"webp"
 	],
 	"dependencies": {
-		"cwebp-bin-mirror": "^5.1.0",
+		"cwebp-bin-copy": "^5.1.0",
 		"exec-buffer": "^3.0.0",
 		"is-cwebp-readable": "^3.0.0"
 	},
