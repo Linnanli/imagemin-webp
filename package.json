@@ -3,7 +3,10 @@
 	"version": "5.1.0",
 	"description": "WebP imagemin plugin",
 	"license": "MIT",
-	"repository": "imagemin/imagemin-webp",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Linnanli/cwebp-bin-mirror.git"
+	},
 	"author": {
 		"name": "Kevin Mårtensson",
 		"email": "kevinmartensson@gmail.com",
