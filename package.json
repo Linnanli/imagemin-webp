@@ -5,7 +5,7 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Linnanli/cwebp-bin-copy.git"
+		"url": "git+https://github.com/Linnanli/imagemin-webp-copy.git"
 	},
 	"author": {
 		"name": "Kevin Mårtensson",
