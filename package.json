@@ -42,7 +42,7 @@
 		"webp"
 	],
 	"dependencies": {
-		"cwebp-bin-copy": "^5.1.0",
+		"cwebp-bin-copy": "^5.1.2",
 		"exec-buffer": "^3.0.0",
 		"is-cwebp-readable": "^3.0.0"
 	},
